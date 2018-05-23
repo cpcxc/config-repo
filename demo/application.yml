@@ -2,7 +2,7 @@
 spring:
   profiles: dev
 config:
-  name: demo123
+  name: demo456
 
 ---
 spring:
