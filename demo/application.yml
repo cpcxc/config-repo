@@ -8,4 +8,4 @@ config:
 spring:
   profiles: prod
 config:
-  name: demoprod
+  name: demo-prod
